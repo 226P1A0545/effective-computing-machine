@@ -1,2 +1,3 @@
 # effective-computing-machine
-student of RIET
+student of RITW
+
